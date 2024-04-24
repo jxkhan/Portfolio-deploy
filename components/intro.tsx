@@ -56,7 +56,7 @@ export default function Intro() {
         initial={{ opacity: 0, y: 100 }}
         animate={{ opacity: 1, y: 0 }}
       >
-        <div className="text-2xl sm:text-3xl">Junaid Sajid</div>
+        <div className="text-2xl sm:text-3xl">Junaid Sajid Khan</div>
         <div className="text-lg sm:text-xl">Software Engineer</div>
         <div className="text-sm sm:text-lg text-zinc-600">
           Open for Remote Work
